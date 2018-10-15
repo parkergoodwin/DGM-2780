@@ -1,0 +1,79 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/* main element css */
+body {
+	background-color: #0DCFFF;
+	color: #4D541C;
+	margin: 0;
+	padding: 0;
+	font-family: 'Anton', sans-serif;
+}
+
+nav {
+	color: #34E7FF;
+	position: fixed;
+	z-index: 10;
+	width: 100%;
+}
+
+h1 {
+	text-align: center;
+	z-index: 100;
+}
+
+h2 { 
+	text-align: center;
+ }
+
+ p {
+ 	text-align: center;
+ }
+
+footer {
+	padding-bottom: 15px;
+}
+/* carousel styling */
+
+.carousel-caption {
+	color: #F0F9FF;
+	font-size: large;
+	text-decoration: none;
+}
+
+
+ .btn-md {
+ 	margin: 0 auto;
+ }
+
+.thumbnail {
+	margin: 10px;
+}
+
+.panel-default {
+	margin: 10px;
+}
+
+.button {
+  width: 200px;
+  background: #3d6a9e;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-radius: 20px;
+  margin: 0 auto;
+
+
+}
+
+
+
+
+
+
+
+
+

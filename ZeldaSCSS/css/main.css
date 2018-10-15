@@ -1,0 +1,118 @@
+#header {
+  background-color: grey; }
+  #header nav {
+    height: 50px; }
+  #header h1 {
+    margin-top: 10px;
+    float: left;
+    margin-left: 5%;
+    font-size: bold;
+    color: black;
+    text-shadow: black 2px 2px 10px; }
+  #header ul {
+    margin-top: 15px;
+    float: right;
+    margin-right: 5%; }
+    #header ul li {
+      display: inline-block;
+      margin-left: 15px;
+      padding-right: 15px;
+      padding-left: 15px;
+      border-right: 2px solid green;
+      border-left: 2px solid green;
+      color: #FF0000; }
+
+body {
+  background-color: grey;
+  font-family: 'Julius Sans One', sans-serif; }
+
+#home-page img {
+  border: 3px solid black;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  border-radius: 20px;
+  margin-top: 15px; }
+#home-page h1 {
+  color: black;
+  text-shadow: black 2px 2px 10px;
+  padding-left: 90px;
+  padding-right: 90px; }
+#home-page p {
+  padding-left: 90px;
+  padding-right: 90px; }
+
+.images {
+  text-align: center;
+  padding: 10px;
+  border: 3px solid black;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  border-radius: 20px;
+  background-color: green; }
+  .images h1 {
+    text-align: center;
+    color: black;
+    text-shadow: black 2px 2px 10px;
+    margin: 20px; }
+  .images img {
+    padding: 50px;
+    border: 3px solid black;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    -ms-border-radius: 40px;
+    border-radius: 40px;
+    margin: 30px;
+    background-color: #FF0000; }
+
+.mainContent {
+  float: right;
+  width: 40%;
+  margin-right: 10px; }
+  .mainContent .ganon, .mainContent h1, .mainContent .impa {
+    text-align: center;
+    padding-right: 300px;
+    margin-right: 50px;
+    text-decoration: underline; }
+  .mainContent h1 {
+    color: green; }
+  .mainContent p {
+    text-align: center;
+    padding-right: 300px; }
+  .mainContent .impa {
+    color: green; }
+
+.bottom p {
+  margin-bottom: 50px; }
+
+.zelda, .link {
+  text-decoration: underline; }
+
+.link {
+  color: green;
+  padding-bottom: 15px; }
+
+footer {
+  position: fixed;
+  clear: both;
+  width: 100%;
+  bottom: 0px;
+  z-index: 0;
+  background-color: green;
+  border: 3px solid black;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  border-radius: 20px; }
+  footer ul {
+    text-align: center; }
+    footer ul li {
+      display: inline-block;
+      color: #FF0000;
+      padding-right: 15px;
+      padding-left: 15px;
+      border-right: 2px solid green;
+      border-left: 2px solid green; }
+
+/*# sourceMappingURL=main.css.map */
